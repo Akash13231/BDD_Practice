@@ -20,3 +20,8 @@ Success! The Form has been submitted successfully!.
 2024-10-01 14:09:26,279 : INFO : <module> : submit button clicked
 2024-10-01 14:09:26,295 : INFO : <module> : ×
 Success! The Form has been submitted successfully!.
+2024-10-01 14:33:44,641 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-01 14:33:47,288 : INFO : <module> : submit button clicked
+2024-10-01 14:33:47,304 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-01 14:33:47,304 : ERROR : <module> : exception occured: 

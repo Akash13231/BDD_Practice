@@ -1,1 +1,1 @@
-{"d067271d9a707534017ced2b0889de63":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"706f56a1a8fd9a19","status":"passed","time":{"start":1727771956501,"stop":1727771968985,"duration":12484}}]}}
+{"d067271d9a707534017ced2b0889de63":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"c3a3839cd1c18ca2","status":"failed","statusDetails":"AssertionError: Error message is wrong\n","time":{"start":1727773418103,"stop":1727773428495,"duration":10392}}]}}
