@@ -18,4 +18,4 @@ def before_scenario(context, scenario):
 
 def after_scenario(context, scenario):
     context.driver.close()
-    print('driver close')
+    print(f'{context.browser_type} driver close')

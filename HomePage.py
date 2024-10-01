@@ -6,7 +6,7 @@ class HomePage():
     def __init__(self, driver):
         self.driver = driver
 
-    url = "https://rahulshettyacademy.com/angularpractice/"
+    # url = "https://rahulshettyacademy.com/angularpractice/"
     name = (By.NAME, 'name')
     email = (By.NAME, 'email')
     passw = (By.ID, 'exampleInputPassword1')
@@ -16,8 +16,8 @@ class HomePage():
     dob = (By.NAME, 'bday')
     succ = (By.XPATH, "//div[@class='alert alert-success alert-dismissible']")
 
-    def open_page(self):
-        return self.driver.get(HomePage.url)
+    def open_page(self,url):
+        return self.driver.get(url)
 
     def fill_name(self):
         return self.driver.find_element(*HomePage.name)

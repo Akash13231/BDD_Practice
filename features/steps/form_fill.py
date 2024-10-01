@@ -1,22 +1,41 @@
+
+
+# This is definitions file for the .features files
+
+
 import time
 from logging import setLogRecordFactory
+from os.path import isabs
 
 import pytest
 from behave import *
 from behave.reporter.summary import status_order
+from selenium.webdriver.support.expected_conditions import title_is
 from selenium.webdriver.support.select import Select
 from logs import log_file
 from HomePage import HomePage
 
 log = log_file.getLogger()
 
-@when('all date for form fill given "{firstname}", "{email}", "{gender}", "{dob}", "{passw}"')
+@given('url is given "{url}"')
+def step_url(context, url):
+    status = False
+    try:
+        homepage = HomePage(context.driver)
+        homepage.open_page(url)
+        title = context.driver.title
+        assert 'ProtoCommerce' in title, 'title is wrong'
+        log.info(f'{url} page opened')
+        status = True
+    except Exception as e:
+        log.error(f'Error occured : {e}')
+    assert  status is True
+
+@when('all date for form fill entered "{firstname}", "{email}", "{gender}", "{dob}", "{passw}"')
 def step_impl(context,firstname, email, gender,dob, passw):
     status = False
     try:
         homepage = HomePage(context.driver)
-        homepage.open_page()
-        log.info('page opened')
         homepage.fill_name().send_keys(firstname)
         homepage.fill_elail().send_keys(email)
         homepage.fill_pass().send_keys(passw)
