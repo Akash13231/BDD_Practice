@@ -39,7 +39,7 @@ def steps_sucess(context):
         homepage = HomePage(context.driver)
         alert_text = homepage.sucess().text
         log.info(alert_text)
-        assert ('Successsss' in alert_text)
+        assert ('Success' in alert_text)
         context.driver.refresh()
         status = True
     except Exception as e:

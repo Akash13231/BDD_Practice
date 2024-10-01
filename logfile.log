@@ -1,0 +1,51 @@
+2024-09-30 12:36:48,162 : INFO : <module> : page opened
+2024-09-30 12:36:50,789 : INFO : <module> : submit button clicked
+2024-09-30 12:36:55,803 : ERROR : <module> : exception occured: Message: Unable to locate element: //div[@class='alert alert-success alert-dismissible']; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-09-30 12:37:04,663 : INFO : <module> : page opened
+2024-09-30 12:37:07,337 : INFO : <module> : submit button clicked
+2024-09-30 12:37:12,352 : ERROR : <module> : exception occured: Message: Unable to locate element: //div[@class='alert alert-success alert-dismissible']; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-09-30 12:37:22,323 : INFO : <module> : page opened
+2024-09-30 12:37:24,844 : INFO : <module> : submit button clicked
+2024-09-30 12:37:29,850 : ERROR : <module> : exception occured: Message: Unable to locate element: //div[@class='alert alert-success alert-dismissible']; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-10-01 09:58:49,248 : INFO : <module> : page opened
+2024-10-01 09:58:51,876 : INFO : <module> : submit button clicked
+2024-10-01 09:58:51,888 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-01 09:58:59,879 : INFO : <module> : page opened
+2024-10-01 09:59:02,723 : INFO : <module> : submit button clicked
+2024-10-01 09:59:02,734 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-01 09:59:10,772 : INFO : <module> : page opened
+2024-10-01 09:59:13,428 : INFO : <module> : submit button clicked
+2024-10-01 09:59:13,438 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-01 10:08:30,819 : INFO : <module> : page opened
+2024-10-01 10:08:33,458 : INFO : <module> : submit button clicked
+2024-10-01 10:08:33,471 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-01 10:08:41,249 : INFO : <module> : page opened
+2024-10-01 10:08:44,147 : INFO : <module> : submit button clicked
+2024-10-01 10:08:44,158 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-01 10:08:51,899 : INFO : <module> : page opened
+2024-10-01 10:08:54,539 : INFO : <module> : submit button clicked
+2024-10-01 10:08:54,549 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
