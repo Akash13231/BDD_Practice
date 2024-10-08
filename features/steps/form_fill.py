@@ -4,13 +4,7 @@
 
 
 import time
-from logging import setLogRecordFactory
-from os.path import isabs
-
-import pytest
 from behave import *
-from behave.reporter.summary import status_order
-from selenium.webdriver.support.expected_conditions import title_is
 from selenium.webdriver.support.select import Select
 from logs import log_file
 from HomePage import HomePage
@@ -28,7 +22,7 @@ def step_url(context, url):
         log.info(f'{url} page opened')
         status = True
     except Exception as e:
-        log.error(f'Error occured : {e}')
+        log.error(f'Error occurred : {e}')
     assert  status is True
 
 @when('all date for form fill entered "{firstname}", "{email}", "{gender}", "{dob}", "{passw}"')
@@ -58,7 +52,7 @@ def steps_sucess(context):
         homepage = HomePage(context.driver)
         alert_text = homepage.sucess().text
         log.info(alert_text)
-        assert ('Successee' in alert_text)
+        assert ('Success' in alert_text)
         context.driver.refresh()
         status = True
     except Exception as e:

@@ -6,7 +6,7 @@ class HomePage():
     def __init__(self, driver):
         self.driver = driver
 
-    # url = "https://rahulshettyacademy.com/angularpractice/"
+
     name = (By.NAME, 'name')
     email = (By.NAME, 'email')
     passw = (By.ID, 'exampleInputPassword1')

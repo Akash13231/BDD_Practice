@@ -9,5 +9,4 @@ def get_webdriver(webdriver_type):
         driver= webdriver.Firefox()
     else:
         driver= webdriver.Chrome()
-
     return driver

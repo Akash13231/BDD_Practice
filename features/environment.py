@@ -2,8 +2,8 @@ from selenium import webdriver
 import logging
 import webdriver
 def before_all(context):
-    browser_type = context.config.userdata.get('browser')
-    context.browser_type = browser_type
+    context.browser_type = context.config.userdata.get('browser')
+    #context.browser_type = browser_type
 
 
 
