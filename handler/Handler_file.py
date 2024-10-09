@@ -3,6 +3,9 @@ import logging
 import os
 from datetime import datetime, date
 import allure
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support.wait import WebDriverWait
 
 
 class AllureLoggingHandler(logging.Handler):
@@ -36,5 +39,6 @@ def attach_screenshoot():
     driver.get_screenshot_as_file(screenshot_path)
     allure.attach.file(source=screenshot_path, attachment_type=allure.attachment_type.PNG, name='screenshot')
 
-
-    #C:\Users\abhosage\PycharmProjects\Testing\BDD_testing\failed_screenshots
+def waitmechanism(self, text):
+    wait = WebDriverWait(self.driver, 10)
+    wait.until(expected_conditions.presence_of_all_elements_located((By.LINK_TEXT, text)))

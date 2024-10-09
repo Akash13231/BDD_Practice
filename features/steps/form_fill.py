@@ -6,10 +6,10 @@
 import time
 from behave import *
 from selenium.webdriver.support.select import Select
-from logs import log_file
+from handler import Handler_file
 from HomePage import HomePage
 
-log = log_file.getLogger()
+log = Handler_file.getLogger()
 
 @given('url is given "{url}"')
 def step_url(context, url):

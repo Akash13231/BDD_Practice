@@ -112,3 +112,141 @@ Success! The Form has been submitted successfully!.
 2024-10-08 14:14:22,484 : INFO : <module> : submit button clicked
 2024-10-08 14:14:22,496 : INFO : <module> : ×
 Success! The Form has been submitted successfully!.
+2024-10-08 16:09:45,404 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-08 16:09:47,985 : INFO : <module> : submit button clicked
+2024-10-08 16:09:48,015 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-08 16:09:56,227 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-08 16:09:58,754 : INFO : <module> : submit button clicked
+2024-10-08 16:09:58,794 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-08 16:10:05,642 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-08 16:10:08,243 : INFO : <module> : submit button clicked
+2024-10-08 16:10:08,269 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:32:19,701 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:32:19,701 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:32:22,336 : INFO : <module> : submit button clicked
+2024-10-09 12:32:22,336 : INFO : <module> : submit button clicked
+2024-10-09 12:32:22,352 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:32:22,352 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:32:30,186 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:32:30,186 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:32:33,022 : INFO : <module> : submit button clicked
+2024-10-09 12:32:33,022 : INFO : <module> : submit button clicked
+2024-10-09 12:32:33,036 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:32:33,036 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:32:41,235 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:32:41,235 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:32:47,276 : ERROR : <module> : Exception occured waitmechanism() missing 1 required positional argument: 'text'
+2024-10-09 12:32:47,276 : ERROR : <module> : Exception occured waitmechanism() missing 1 required positional argument: 'text'
+2024-10-09 12:42:22,017 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:42:22,017 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:42:24,646 : INFO : <module> : submit button clicked
+2024-10-09 12:42:24,646 : INFO : <module> : submit button clicked
+2024-10-09 12:42:24,658 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:42:24,658 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:42:31,995 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:42:31,995 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:42:34,847 : INFO : <module> : submit button clicked
+2024-10-09 12:42:34,847 : INFO : <module> : submit button clicked
+2024-10-09 12:42:34,868 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:42:34,868 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:42:42,331 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:42:42,331 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:42:48,419 : ERROR : <module> : Exception occured presence_of_all_elements_located() takes 1 positional argument but 2 were given
+2024-10-09 12:42:48,419 : ERROR : <module> : Exception occured presence_of_all_elements_located() takes 1 positional argument but 2 were given
+2024-10-09 12:45:08,174 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:45:08,174 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:45:10,779 : INFO : <module> : submit button clicked
+2024-10-09 12:45:10,779 : INFO : <module> : submit button clicked
+2024-10-09 12:45:10,789 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:45:10,789 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:45:17,909 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:45:17,909 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:45:20,756 : INFO : <module> : submit button clicked
+2024-10-09 12:45:20,756 : INFO : <module> : submit button clicked
+2024-10-09 12:45:20,769 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:45:20,769 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:45:28,292 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:45:28,292 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:45:39,811 : ERROR : <module> : Exception occured Message: Element <div class="checkbox checkbox-primary"> is not clickable at point (768,242) because another element <a> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:337:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:205:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:85:31
+
+2024-10-09 12:45:39,811 : ERROR : <module> : Exception occured Message: Element <div class="checkbox checkbox-primary"> is not clickable at point (768,242) because another element <a> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:337:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:205:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:85:31
+
+2024-10-09 12:48:21,284 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:48:21,284 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:48:23,934 : INFO : <module> : submit button clicked
+2024-10-09 12:48:23,934 : INFO : <module> : submit button clicked
+2024-10-09 12:48:23,948 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:48:23,948 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:48:30,922 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:48:30,922 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:48:33,767 : INFO : <module> : submit button clicked
+2024-10-09 12:48:33,767 : INFO : <module> : submit button clicked
+2024-10-09 12:48:33,781 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:48:33,781 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:48:41,499 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:48:41,499 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:48:53,783 : INFO : <module> : purchase button clicked
+2024-10-09 12:48:53,783 : INFO : <module> : purchase button clicked
+2024-10-09 12:48:53,795 : INFO : <module> : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-09 12:48:53,795 : INFO : <module> : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-09 12:58:27,493 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:58:27,493 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:58:30,140 : INFO : <module> : submit button clicked
+2024-10-09 12:58:30,140 : INFO : <module> : submit button clicked
+2024-10-09 12:58:30,158 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:58:30,158 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:58:39,053 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:58:39,053 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:58:41,906 : INFO : <module> : submit button clicked
+2024-10-09 12:58:41,906 : INFO : <module> : submit button clicked
+2024-10-09 12:58:41,923 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:58:41,923 : INFO : <module> : ×
+Success! The Form has been submitted successfully!.
+2024-10-09 12:58:49,088 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:58:49,088 : INFO : <module> : https://rahulshettyacademy.com/angularpractice/ page opened
+2024-10-09 12:59:00,901 : INFO : <module> : purchase button clicked
+2024-10-09 12:59:00,901 : INFO : <module> : purchase button clicked
+2024-10-09 12:59:00,918 : INFO : <module> : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-09 12:59:00,918 : INFO : <module> : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
